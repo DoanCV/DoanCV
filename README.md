@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DoanCV
+- 👋 Hi, I’m **@DoanCV**
   - My alt-playground is @doanhub which has student account perks
 - 👀 I’m interested in data science.
 - 🌱 I’m currently reading Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
