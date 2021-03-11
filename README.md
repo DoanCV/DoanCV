@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@DoanCV**
   - My alt-playgrounds 
-    - @doanhub which has a software engineering project, and student perks
+    - @doanhub which has software engineering project, and student perks
     - @Porkdown which is my Codewars alias
 - 👀 I’m interested in data science.
 - 🌱 I’m currently reading Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
