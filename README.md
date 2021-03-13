@@ -3,7 +3,7 @@
     - @doanhub which has software engineering project and student perks
     - @Porkdown which is my Codewars alias
 - 👀 I’m interested in data science.
-- 🌱 I’m currently reading Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
+- 🌱 I’m currently reading Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow. Also, I'm continuing my #66daysofdata streak since inception.
 - 💞️ I’m looking to collaborate on career and interview preparation.
 - 📫 How to reach me: 
 <br> **LinkedIn**: https://www.linkedin.com/in/briandoan-profile/ 
