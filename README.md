@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@DoanCV**
   - My alt-playgrounds 
-    - @Porkdown which is my Codewars alias
+    - @Porkdown which is my Codewars and Jovian.AI alias
     - @doanhub which has software engineering project and student perks
 - 👀 I’m interested in the data science lifecycle from data engineering to model deployment.
 - 🌱 I’m currently reading Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow. 
