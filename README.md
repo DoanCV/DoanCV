@@ -1,12 +1,9 @@
 - 👋 Hi, I’m Brian (**@DoanCV**)
   - My alt-playground
-    - @Porkdown which is my Codewars and Jovian.AI alias
-
-- 👀 I’m interested in the data science lifecycle from data engineering to model deployment.
-
+    - @Porkdown which is my Codewars and Jovian.AI alias <br>
+- 👀 I’m interested in the data science lifecycle from data engineering to model deployment. <br>
 - 🌱 I’m currently reading Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow.
-    - (⌐■_■) I'm continuing my #66daysofdata streak since inception.
-
+    - (⌐■_■) I'm continuing my #66daysofdata streak since inception. <br>
 - 💞️ I’m looking to collaborate on career and interview preparation with enthusiasts and professionals.
 
 - 📫 How to reach me: 
