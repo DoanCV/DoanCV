@@ -3,7 +3,7 @@
 <br>    - @Porkdown which is my Codewars and Jovian.AI alias 
 - 👀 I’m interested in the data science lifecycle from data engineering to model deployment.
 - 🌱 I’m currently reading Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow.
-<br> - I'm continuing my #66daysofdata streak since inception. If you are interested, I hope you can join too.
+- 🎉 I'm continuing my #66daysofdata streak since inception. If you are interested, I hope you can join too.
 - 💞️ I’m looking to collaborate on career and interview preparation with enthusiasts and professionals.
 
 - 📫 How to reach me: 
