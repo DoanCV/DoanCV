@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in the data science lifecycle from data engineering to model deployment.
 - 🌱 I’m currently reading Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow.
-- 🎉 I'm continuing my #66daysofdata streak since inception. Check it out if you are interested, I hope you can join, we're on round 3!
+- 🎉 I'm continuing my #66daysofdata streak since inception. Check it out if you are interested. I hope you can join, we're on round 3!
 - 💞️ I’m looking to collaborate on career and interview preparation with enthusiasts and professionals.
 
 - 📫 How to reach me: 
